@@ -1,4 +1,4 @@
-# Computer-Network
+# Computer Network
 Programming homework for Computer Network
 
 1. The projects inside this repository is about three pieces of programming homework of Computer Network (instructed by Paul Barford): learning switch, router and UDP sender/receivers, three basic implementations from layer 2 to layer 4.
