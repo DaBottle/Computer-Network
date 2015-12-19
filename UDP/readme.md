@@ -2,7 +2,7 @@
 
 1. After complilation, the sender (blaster) is invoked by:
 
-  blaster -s <hostname> -p <port> -r <rate> -n <num> -q <seq_no> -l <length> -c <echo>
+  blaster -s <<hostname>> -p <port> -r <rate> -n <num> -q <seq_no> -l <length> -c <echo>
   
 <hostname> is the hostname of the blastee,
 <port> is the port on which the blastee is running,
