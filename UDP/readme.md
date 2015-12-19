@@ -4,7 +4,7 @@
 
   blaster -s \<hostname\> -p \<port\> -r \<rate\> -n \<num\> -q \<seq_no\> -l \<length\> -c \<echo\>
   
-\<hostname\> is the hostname of the blastee,
+\<hostname\> is the hostname of the blastee,\n
 \<port\> is the port on which the blastee is running,
 \<rate\> is the number of packets to be sent per second,
 \<num\> is the number of packets to be sent by the blaster,
